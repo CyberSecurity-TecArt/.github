@@ -1,4 +1,4 @@
-# CyberSecurity TecArt Study Group
+# 🔐 CyberSecurity TecArt Study Group
 
 Welcome to our cybersecurity learning organization!  
 We focus on:
